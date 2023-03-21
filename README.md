@@ -6,7 +6,7 @@ We will build rest api for a simple file sharing app.
 ![demo gif](https://github.com/anurag7820/File-Sharing-Application/blob/main/inshare%20demo.gif)
 
 
-https://github.com/anurag7820/File-Sharing-Application
+https://inshare0.netlify.app/
 
 
 ## Installation 
